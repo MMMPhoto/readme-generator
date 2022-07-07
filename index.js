@@ -8,12 +8,12 @@ const questions = [
     {
         type: 'input',
         message: 'What is the title of your app?',
-        name: 'Title',
+        name: 'title',
     },
     {
         type: 'input',
         message: 'What is your name?',
-        name: 'Name',
+        name: 'name',
     },
     {
         type: 'input',
@@ -24,10 +24,10 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    // generateMarkdown() {
-    //     let title = 'Sample Title';
-    // }
-}
+    fs.writeFile(`${fileName}.md`, generateMarkdown(data), (err) =>
+        err ? console.log(err) : console.log(`File ${fileName}.md was written to this folder.`)
+    );
+};
 
 // TODO: Create a function to initialize app
 function init() {
@@ -35,6 +35,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
         console.log(data);
+        writeToFile(data.title, data);
     })
     .catch((err) => console.log(err));
 };
