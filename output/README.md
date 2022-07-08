@@ -1,9 +1,11 @@
 
-  # README
+  # README Generator
+
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  README generator
+  Generates READMEs
 
   ## Table of Contents
 
@@ -17,35 +19,38 @@
 
   ## Installation
 
-  node index.js
+  download file
 
   ## Usage
 
-  answer questions
-
-  ![screenshot](undefined)
+  run node index.js, answer prompts, file generates
 
   ## License
 
-  creative commons
+  ### Apache 2.0
+
+
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+  This app is licensed under the Apache 2.0 License. Please click [HERE](https://opensource.org/licenses/Apache-2.0) for more info.
 
   ## Features
 
-  Don't have to do work
+  Features...
 
   ## Contributing
 
-  Email me
+  Email me!
 
   ## Tests
 
-  Running it over and over again
+  Running it over and over
 
   ## Questions
 
-  If you have additional questions, please contact me at: max.mcdonough@gmail.com
+  If you have additional questions, please contact me at: max.mcd@gamal.com
 
-  Github: [MMMPhoto](#https://github.com/MMMPhoto)
+  Github: [MMMPhoto](https://github.com/MMMPhoto)
 
-  
+
   
