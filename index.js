@@ -1,35 +1,75 @@
-// TODO: Include packages needed for this application
+//Packages/Modules needed for the application to run
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-// TODO: Create an array of questions for user input
+//Array of questions for user input
 const questions = [
     {
         type: 'input',
-        message: 'What is the title of your app?',
+        message: 'What is the name of your app?',
         name: 'title',
+    },
+    {
+        type: 'input',
+        message: 'Please write a short description of your app.',
+        name: 'description',
+    },
+    {
+        type: 'input',
+        message: 'Please provide installation instructions.',
+        name: 'installation',
+    },
+    {
+        type: 'input',
+        message: 'Please provide usage instructions.',
+        name: 'usage',
+    },
+     {
+        type: 'input',
+        message: 'Please choose a license.',
+        name: 'license',
+    },
+    {
+        type: 'input',
+        message: 'Please provide a list of features.',
+        name: 'features',
+    },
+    {
+        type: 'input',
+        message: 'Please provide contribution guidlines.',
+        name: 'contributing',
+    },
+    {
+        type: 'input',
+        message: 'Please describe what testing you have done.',
+        name: 'tests',
+    },
+    {
+        type: 'input',
+        message: "Please enter your email address.",
+        name: 'email',
+    },
+    {
+        type: 'input',
+        message: "Please enter your github profile name.",
+        name: 'github',
     },
     {
         type: 'input',
         message: 'What is your name?',
         name: 'name',
-    },
-    {
-        type: 'input',
-        message: "What is URL of your app's github repository?",
-        name: 'githubURL',
     }
 ];
 
-// TODO: Create a function to write README file
+// Function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(`${fileName}.md`, generateMarkdown(data), (err) =>
-        err ? console.log(err) : console.log(`File ${fileName}.md was written to this folder.`)
+    fs.writeFile('./output/README.md', generateMarkdown(data), (err) =>
+        err ? console.log(err) : console.log(`Your README.md file was written to the output folder.`)
     );
 };
 
-// TODO: Create a function to initialize app
+// TODO: Function to initialize app
 function init() {
     console.log('App Initialized..');
     inquirer.prompt(questions)
@@ -39,7 +79,6 @@ function init() {
     })
     .catch((err) => console.log(err));
 };
-
 
 // Function call to initialize app
 init();
