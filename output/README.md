@@ -1,9 +1,9 @@
 
-  # jsldfjklsdjflksd
+  # README
 
   ## Description
 
-  sdlkfjslkdfjsldfjslkdfjs
+  README generator
 
   ## Table of Contents
 
@@ -17,33 +17,35 @@
 
   ## Installation
 
-  lslkdjflksdjflksjdflks
+  node index.js
 
   ## Usage
 
-  sdfjlksdjflksjdfklsjdf
+  answer questions
 
   ![screenshot](undefined)
 
   ## License
 
-  sdkjflskdjflksjdfkls
+  creative commons
 
   ## Features
 
-  sdkfjlskdjfklsdjfklsj
+  Don't have to do work
 
   ## Contributing
 
-  sdkjflsdkjfsldjfklsdj
+  Email me
 
   ## Tests
 
-  sdlfkjsdklfjslkdf
+  Running it over and over again
 
   ## Questions
 
-  If you have additional questions, please contact me at: sdlkfjskldjf
+  If you have additional questions, please contact me at: max.mcdonough@gmail.com
 
-  Github: sdkfjlsdjflksjdflksjd : https://github.com/undefined
+  Github: [MMMPhoto](#https://github.com/MMMPhoto)
+
+  
   
