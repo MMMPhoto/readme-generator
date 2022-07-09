@@ -24,6 +24,8 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   
   // Call License Function
+  const date = new Date();
+  const year = date.getFullYear();
   let license = {
     name: `${data.license}`,
     badge: '',
@@ -88,6 +90,10 @@ function generateMarkdown(data) {
   If you have additional questions, please contact me at: ${data.email}
 
   Github: [${data.github}](https://github.com/${data.github})
+
+  --------------------------------------
+
+  ### &copy; ${year} ${data.name}
 
 
   `;

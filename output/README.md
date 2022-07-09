@@ -1,11 +1,11 @@
 
-  # README Generator
+  # slkdjflsd
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
   ## Description
 
-  Generates READMEs
+  sdflksdfsd
 
   ## Table of Contents
 
@@ -19,38 +19,42 @@
 
   ## Installation
 
-  download file
+  fsd
 
   ## Usage
 
-  run node index.js, answer prompts, file generates
+  sdfs
 
   ## License
 
-  ### Apache 2.0
+  ### Creative Commons Zero
 
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-  This app is licensed under the Apache 2.0 License. Please click [HERE](https://opensource.org/licenses/Apache-2.0) for more info.
+  This app is licensed under the Creative Commons Zero License. Please click [HERE](http://creativecommons.org/publicdomain/zero/1.0/) for more info.
 
   ## Features
 
-  Features...
+  sdf
 
   ## Contributing
 
-  Email me!
+  sd
 
   ## Tests
 
-  Running it over and over
+  fsdfsdf
 
   ## Questions
 
-  If you have additional questions, please contact me at: max.mcd@gamal.com
+  If you have additional questions, please contact me at: sdf
 
-  Github: [MMMPhoto](https://github.com/MMMPhoto)
+  Github: [sdfsdf](https://github.com/sdfsdf)
+
+  --------------------------------------
+
+  ### &copy; 2022 Sidney Stein
 
 
   
