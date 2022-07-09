@@ -33,7 +33,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please provide a list of features.',
+        message: 'Please provide a list of features (seperate by commas and a space for formatting).',
         name: 'features',
     },
     {

@@ -1,11 +1,11 @@
 
-  # slkdjflsd
+  # ;ldisjfk
 
-  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  sdflksdfsd
+  sdlfkjsd
 
   ## Table of Contents
 
@@ -19,42 +19,46 @@
 
   ## Installation
 
-  fsd
+  sdfjsdf;
 
   ## Usage
 
-  sdfs
+  sdflkjsdf
 
   ## License
 
-  ### Creative Commons Zero
+  ### MIT
 
 
-  [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  This app is licensed under the Creative Commons Zero License. Please click [HERE](http://creativecommons.org/publicdomain/zero/1.0/) for more info.
+  This app is licensed under the MIT License. Please click [HERE](https://opensource.org/licenses/MIT) for more info.
 
   ## Features
 
-  sdf
+  - trying this
+  - please work
+  - want a list to look right
+  - now
+  
 
   ## Contributing
 
-  sd
+  sdg
 
   ## Tests
 
-  fsdfsdf
+  ds
 
   ## Questions
 
-  If you have additional questions, please contact me at: sdf
+  If you have additional questions, please contact me at: sfd
 
-  Github: [sdfsdf](https://github.com/sdfsdf)
+  Github: [dsf](https://github.com/dsf)
 
   --------------------------------------
 
-  ### &copy; 2022 Sidney Stein
+  ### &copy; 2022 dfs
 
 
   
